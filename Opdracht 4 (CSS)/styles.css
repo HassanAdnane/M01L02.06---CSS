@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(119, 153, 143, 0.938);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titel-indeling { 
+    color: rgb(72, 77, 75);
+    border: 3px solid black; 
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.link-indeling {
+    position: absolute;
+    bottom: 55px;
+    left: 55px;
+}
+
+.lijn-indeling {
+    position: absolute;
+    bottom: 35px;
+    width: 95%;
+    left: 43px;
+}
+
+.list-indeling {
+    position: relative;
+    border: 2px dashed black;
+    width: 150px;
+    color: brown;
+    background-color: rgb(192, 223, 162);
+}
